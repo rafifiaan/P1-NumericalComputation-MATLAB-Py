@@ -1,4 +1,4 @@
-# Practicum 1 - Numerical Computing
+# Practicum 1 - Numerical Computation
 
  Name           : Rafi Aliefian Putra Ramadhani        
  NRP            : 5025211234                          
