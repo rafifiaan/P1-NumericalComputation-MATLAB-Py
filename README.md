@@ -1,7 +1,8 @@
 # Practicum 1 - Numerical Computing
 
-Name    : Rafi Aliefian Putra Ramadhani
-NRP     : 5025211234
+ Name           : Rafi Aliefian Putra Ramadhani        
+ NRP            : 5025211234                          
+
 
 ## Source Code with MATLAB 
 >Doing execution Bisection Method using MATLAB Language (Platform)
