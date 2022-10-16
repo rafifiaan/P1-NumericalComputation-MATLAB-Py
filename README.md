@@ -85,7 +85,7 @@ ylabel('f(x)')
 legend('f(x)','akar persamaan','garis f(x)=0')
 title(sprintf('Metode Bolzano - Akarnya adalah = %.8f', xm1))
 ```
-Result :
+ - Result :
 ![mt1](https://user-images.githubusercontent.com/91828276/196020410-31b0b064-9c0f-4051-ad59-548db48f98ee.png) 
 </br>
 
@@ -140,7 +140,7 @@ plt.plot(x, f(x))
 plt.grid()
 plt.show()
 ```
-Result :
+ - Result :
 ![py1](https://user-images.githubusercontent.com/91828276/196020415-1dca852b-6eb9-45a4-b90e-794c49655a64.png)
 </br>
 
