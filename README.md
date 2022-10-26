@@ -112,7 +112,7 @@ if f(a)*f(b)>0:
     
 else :
     print("n          a                b              x              f(a)            f(b)             f(x)")
-    for i in range(1,10):
+    for i in range(0,300):
         x = (a+b)/2
         print(i+1, "\t", format(a,".5f"), "\t", format(b,".5f"), "\t", format(x, ".5f"), "\t", format(f(a),".5f"), "\t", format(f(b),".5f"), "\t", format(f(x),".5f"))
         
