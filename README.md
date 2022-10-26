@@ -123,7 +123,7 @@ else :
         else:
             a=x
             
-print("Akar persamaannya adalah = ", a, " dan ", b)
+print("Akar persamaannya adalah = ", x)
 
 x = np.linspace(-5,10,100)
 

@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+print("Metode Bolzano - Numerical Computation")
+print("-----------------------------------------")
 persamaan = input("Masukkan Persamaan fungsi x : ")
 a = float(input("Masukkan nilai a : "))
 b = float(input("Masukkan nilai b : "))
@@ -26,7 +28,7 @@ else :
         else:
             a=x
             
-print("Akar persamaannya adalah = ", a, " dan ", b)
+print("Akar persamaannya adalah = ", x)
 
 x = np.linspace(-5,10,100)
 
